@@ -2,7 +2,7 @@
 	"updates": [
 		{
 			"version": "1.1.7 (30.07.2024)",
-			"description": "Core:\n\t- changed sorting algorythm for signature calculation to\n\tIntl.Collator('en', { ignorePunctuation: true })\n\t- added new key type 'NODES' which obtained as a result from BankValueSetFromUnit.\n\tSo 'AnySimpleMap' will support maps like 'Zombie World: Reign of Chaos'"
+			"description": "Core:\n\t- changed sorting algorythm for signature calculation to\n\tIntl.Collator('en', { ignorePunctuation: true })\n\t- added new key type 'NODES' which obtained as a result from BankValueSetFromUnit.\n\tSo 'AnySimpleMap' will support maps like 'Zombie World: Reign of Chaos'\n\nZombie World Liberty:\n\t- small form updates"
 		},
 		{
 			"version": "1.1.6 (1.07.2024)",
