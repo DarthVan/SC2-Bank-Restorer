@@ -13,6 +13,7 @@ Simple online StarCraft 2 bank editor for people who lost their save from a cust
 * End of Dreams (Fixed)
 * Exodus 3
 * Mineralz Evolution (Updated)
+* Mineralz Survaival Classic
 * Runling Run 4
 * Runling Run 8
 * Swarm Special Forces
