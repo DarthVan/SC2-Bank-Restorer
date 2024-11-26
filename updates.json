@@ -1,6 +1,10 @@
 {
 	"updates": [
 		{
+			"version": "1.1.9 (26.11.2024)",
+			"description": "Zombie World Liberty:\n\t- updated jewels limits to 200, added some new jewels"
+		},
+		{
 			"version": "1.1.8 (09.09.2024)",
 			"description": "Added map:\n\t- MineralZ Survaival Classic\n\nEditor:\n\t- notification when copying code"
 		},
