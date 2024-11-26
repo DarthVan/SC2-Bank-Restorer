@@ -2,7 +2,7 @@
 	"updates": [
 		{
 			"version": "1.1.9 (26.11.2024)",
-			"description": "Zombie World Liberty:\n\t- updated jewels limits to 200, added some new jewels"
+			"description": "Zombie World Liberty:\n\t- updated jewels limits to 200, added some new jewels\n\t- fixed reading/generating bug when bank has no challenges"
 		},
 		{
 			"version": "1.1.8 (09.09.2024)",
